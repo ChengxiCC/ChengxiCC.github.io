@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Engineering, Tsinghua University, Beijing, China, 2022 
+* B.S. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, 2018
+* Visiting student, University of Wollongong, NSW, Australia, Feb 2018 - May 2018
+* Exchange Student, Department of Electrical Engineering, City University of Hong Kong, Hong Kong SAR, China, City University of Hong Kong, Hong Kong SAR, China
 
 Work experience
 ======
