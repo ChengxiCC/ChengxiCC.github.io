@@ -35,5 +35,5 @@ KTH Royal Institute of Technology
 KTH Main Campus, Malvinas väg 10  
 
 **Email:** [chengxli@kth.se](chengxli@kth.se)  
-[**Google scholar:**](https://scholar.google.com/citations?hl=en&user=elsum5sAAAAJ&view_op=list_works)
+[**Google scholar**](https://scholar.google.com/citations?hl=en&user=elsum5sAAAAJ&view_op=list_works)
 
