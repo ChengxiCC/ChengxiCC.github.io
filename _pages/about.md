@@ -20,6 +20,5 @@ My primary research interests include:
 - **Federated Learning**
 - **Signal Processing**
 - **Information Theory**
-
-I am passionate about advancing knowledge and developing innovative solutions in these fields.  
+  
 Thank you for visiting my page! Feel free to explore my work or reach out for collaboration.
