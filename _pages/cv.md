@@ -36,24 +36,8 @@ Awards
 * Excellent Graduate, UESTC, Jun 2018
 * Academic Star of Electronic Engineering, UESTC, Oct 2016
 
-Publications
+ 
+Mentoring
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+I am fortunate to work with the following students on their research projects as Co-advisor:
+* Master student: Aiyang Yu
