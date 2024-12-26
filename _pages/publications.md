@@ -10,12 +10,12 @@ redirect_from:
 
 ### Journal Papers
 
-- W. Wang, Y. Wan, **C. Li**, et al., "Millimetre-Wave Radar-Based Spirometry for the Preliminary Diagnosis of Chronic Obstructive Pulmonary Disease," *IET Radar, Sonar & Navigation*, pp. 1–12, 2023.
 - **C. Li** and M. Skoglund, "Decentralized Learning Based on Gradient Coding With Compressed Communication," *IEEE Transactions on Signal Processing*, vol. 72, pp. 4713-4729, 2024.
 - **C. Li** and M. Skoglund, "Distributed Learning based on 1-Bit Gradient Coding in the Presence of Stragglers," *IEEE Transactions on Communications*, vol. 72, no. 8, pp. 4903-4916, 2024.
 - **C. Li**, G. Li, Z. Wang, et al., "COMIC: An Unsupervised Change Detection Method for Heterogeneous Remote Sensing Images based on Copula Mixtures and Cycle-Consistent Adversarial Networks," *Information Fusion*, vol. 106, 2024.
 - Z. Wang, X. Wang, G. Li and **C. Li**, "Robust Cross-Modal Remote Sensing Image Retrieval via Maximal Correlation Augmentation," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-17, 2024.
 - **C. Li**, G. Li, X. Wang and P. K. Varshney, "A Copula-Based Method for Change Detection With Multisensor Optical Remote Sensing Images," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1-15, 2023.
+- W. Wang, Y. Wan, **C. Li**, et al., "Millimetre-Wave Radar-Based Spirometry for the Preliminary Diagnosis of Chronic Obstructive Pulmonary Disease," *IET Radar, Sonar & Navigation*, pp. 1–12, 2023.
 - **C. Li**, G. Li and P. K. Varshney, "Distributed Detection of Sparse Signals with Censoring Sensors in Clustered Sensor Networks," *Information Fusion*, vol. 83–84, pp. 1-18, Jul. 2022.
 - **C. Li**, G. Li and P. K. Varshney, "Robust Federated Opportunistic Learning in the Presence of Label Quality Disparity," *IEEE Internet of Things Journal*, vol. 9, no. 13, pp. 10978-10987, Jul. 2022.
 - **C. Li**, G. Li and P. K. Varshney, "Federated Learning With Soft Clustering," *IEEE Internet of Things Journal*, vol. 9, no. 10, pp. 7773-7782, May 2022.
@@ -28,3 +28,7 @@ redirect_from:
 - **C. Li**, G. Li, B. Kailkhura and P. K. Varshney, "Secure Distributed Detection of Sparse Signals via Falsification of Local Compressive Measurements," *IEEE Transactions on Signal Processing*, vol. 67, no. 18, pp. 4696-4706, Sept. 2019.
 
 ### Conference Proceedings
+- **C. Li**, M. Xiao and M. Skoglund, “Gradient Coding in Decentralized Learning for Evading Stragglers,” to be presented at *IEEE Information Theory Workshop*, Shenzhen, China, 2024.
+- **C. Li** and M. Skoglund, “Gradient Coding in Decentralized Learning for Evading Stragglers,” *32nd European Signal Processing Conference, EUSIPCO*, Lyon, France, 2024.
+- Z. Wang, X. Wang, G. Li and **C. Li**, "HGR Maximal Correlation Augmented Cross-Modal Remote Sensing Retrieval," *IEEE International Geoscience and Remote Sensing Symposium*, Pasadena, CA, USA, 2023.
+- **C. Li**, G. Li and P. K. Varshney, "Distributed Detection of Sparse Signals with 1-Bit Data in Two-Level Two-Degree Tree-Structured Sensor Networks," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Barcelona, Spain, 2020.
