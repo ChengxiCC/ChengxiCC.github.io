@@ -17,16 +17,10 @@ Education
 
 Work experience
 ======
-* Research assistant, Tsinghua University, Jul 2022 - Oct 2023  
-* Postdoctoral researcher, Nov 2023 - Now
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research assistant, Tsinghua University, Jul 2022 - Oct 2023
+  * Supervisor: Prof. Gang Li 
+* Postdoctoral researcher, KTH Royal Institute of Technology, Nov 2023 - Now
+  * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao 
   
 Skills
 ======
