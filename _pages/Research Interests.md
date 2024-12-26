@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Research interests/
+permalink: /Research Interests/
 author_profile: true
 redirect_from:
   - /resume
@@ -8,6 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research interests 
+Research Interests 
 =====
 My research interests focus on developing fundamental theories and novel algorithms for signal processing and machine learning in distributed systems.
