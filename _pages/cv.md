@@ -50,3 +50,9 @@ Mentoring
 ======
 I am fortunate to work with the following students on their research projects as Co-advisor:
 * Master student: Aiyang Yu
+
+Languages 
+======
+* Chinese: Native
+* English: Full professional proficiency
+* French: Basic skills 
