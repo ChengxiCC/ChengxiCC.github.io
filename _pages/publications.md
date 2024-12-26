@@ -28,7 +28,8 @@ redirect_from:
 - **C. Li**, G. Li, B. Kailkhura and P. K. Varshney, "Secure Distributed Detection of Sparse Signals via Falsification of Local Compressive Measurements," *IEEE Transactions on Signal Processing*, vol. 67, no. 18, pp. 4696-4706, Sept. 2019.
 
 ### Conference Proceedings
-- **C. Li**, M. Xiao and M. Skoglund, “Gradient Coding in Decentralized Learning for Evading Stragglers,” to be presented at *IEEE Information Theory Workshop*, Shenzhen, China, 2024.
+- **C. Li**, M. Xiao and M. Skoglund, “Gradient Coding in Decentralized Learning for Evading Stragglers,” *IEEE Information Theory Workshop*, Shenzhen, China, 2024.
 - **C. Li** and M. Skoglund, “Gradient Coding in Decentralized Learning for Evading Stragglers,” *32nd European Signal Processing Conference, EUSIPCO*, Lyon, France, 2024.
+- S. Weng, **C. Li**, M. Xiao and M. Skoglund, "Cooperative Communication Based Gradient Coding for Wireless Federated Learning," *IEEE Global Communications Conference (GLOBECOM)*, Cape Town, South Africa, 2024.
 - Z. Wang, X. Wang, G. Li and **C. Li**, "HGR Maximal Correlation Augmented Cross-Modal Remote Sensing Retrieval," *IEEE International Geoscience and Remote Sensing Symposium*, Pasadena, CA, USA, 2023.
 - **C. Li**, G. Li and P. K. Varshney, "Distributed Detection of Sparse Signals with 1-Bit Data in Two-Level Two-Degree Tree-Structured Sensor Networks," *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Barcelona, Spain, 2020.
