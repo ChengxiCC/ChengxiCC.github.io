@@ -25,3 +25,5 @@ redirect_from:
 - **C. Li**, Y. He, X. Wang, G. Li and P. K. Varshney, "Distributed Detection of Sparse Stochastic Signals via Fusion of 1-bit Local Likelihood Ratios," *IEEE Signal Processing Letters*, vol. 26, no. 12, pp. 1738-1742, Dec. 2019.
 - **C. Li**, G. Li, B. Kailkhura and P. K. Varshney, "Secure Distributed Detection of Sparse Signals via Falsification of Local Compressive Measurements," *IEEE Transactions on Signal Processing*, vol. 67, no. 18, pp. 4696-4706, Sept. 2019.
 - W. Wang, Y. Wan, **C. Li**, et al., "Millimetre-Wave Radar-Based Spirometry for the Preliminary Diagnosis of Chronic Obstructive Pulmonary Disease," *IET Radar, Sonar & Navigation*, pp. 1–12, 2023.
+
+### Conference Proceedings
