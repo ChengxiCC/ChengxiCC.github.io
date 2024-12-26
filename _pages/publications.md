@@ -10,6 +10,7 @@ redirect_from:
 
 ### Journal Papers
 
+- W. Wang, Y. Wan, **C. Li**, et al., "Millimetre-Wave Radar-Based Spirometry for the Preliminary Diagnosis of Chronic Obstructive Pulmonary Disease," *IET Radar, Sonar & Navigation*, pp. 1–12, 2023.
 - **C. Li** and M. Skoglund, "Decentralized Learning Based on Gradient Coding With Compressed Communication," *IEEE Transactions on Signal Processing*, vol. 72, pp. 4713-4729, 2024.
 - **C. Li** and M. Skoglund, "Distributed Learning based on 1-Bit Gradient Coding in the Presence of Stragglers," *IEEE Transactions on Communications*, vol. 72, no. 8, pp. 4903-4916, 2024.
 - **C. Li**, G. Li, Z. Wang, et al., "COMIC: An Unsupervised Change Detection Method for Heterogeneous Remote Sensing Images based on Copula Mixtures and Cycle-Consistent Adversarial Networks," *Information Fusion*, vol. 106, 2024.
@@ -25,6 +26,5 @@ redirect_from:
 - **C. Li**, G. Li and P. K. Varshney, "Distributed Detection of Sparse Signals With Censoring Sensors Via Locally Most Powerful Test," *IEEE Signal Processing Letters*, vol. 27, pp. 346-350, 2020.
 - **C. Li**, Y. He, X. Wang, G. Li and P. K. Varshney, "Distributed Detection of Sparse Stochastic Signals via Fusion of 1-bit Local Likelihood Ratios," *IEEE Signal Processing Letters*, vol. 26, no. 12, pp. 1738-1742, Dec. 2019.
 - **C. Li**, G. Li, B. Kailkhura and P. K. Varshney, "Secure Distributed Detection of Sparse Signals via Falsification of Local Compressive Measurements," *IEEE Transactions on Signal Processing*, vol. 67, no. 18, pp. 4696-4706, Sept. 2019.
-- W. Wang, Y. Wan, **C. Li**, et al., "Millimetre-Wave Radar-Based Spirometry for the Preliminary Diagnosis of Chronic Obstructive Pulmonary Disease," *IET Radar, Sonar & Navigation*, pp. 1–12, 2023.
 
 ### Conference Proceedings
