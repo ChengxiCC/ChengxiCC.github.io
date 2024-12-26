@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 * Research assistant, Tsinghua University, Jul 2022 - Oct 2023
-  * Supervisor: Prof. Gang Li 
+ * Supervisor: Prof. Gang Li 
 * Postdoctoral researcher, KTH Royal Institute of Technology, Nov 2023 - Now
-  * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao 
+ * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao 
   
 Awards
 ======
