@@ -36,6 +36,11 @@ Awards
 * Excellent Graduate, UESTC, Jun 2018
 * Academic Star of Electronic Engineering, UESTC, Oct 2016
 
+Grants
+======
+* MSCA Postdoctoral Fellowships, Principal Investigator, European Commission, 2024-2026
+* Digital Futures Postdoc Fellowships, Principal Investigator, Digital Futures, 2023-2025
+
  
 Mentoring
 ======
