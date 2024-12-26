@@ -17,4 +17,8 @@ Journal Reviewer
 * Information Fusion
 * IEEE Transactions on Consumer Electronics
 * Electronics
-* Sensors 
+* Sensors
+
+Professional Activities
+=====
+* Organizing Committee Member, International Workshop on Secure and Efficient Federated Learning In Conjunction with ACM AsiaCCS 2025
