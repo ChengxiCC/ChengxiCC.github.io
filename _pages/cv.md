@@ -17,12 +17,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
+* Research assistant, Tsinghua University, Jul 2022 - Oct 2023  
+* Postdoctoral researcher, Nov 2023 - Now
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
