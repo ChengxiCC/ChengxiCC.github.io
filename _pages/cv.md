@@ -38,8 +38,12 @@ Awards
 
 Grants
 ======
-* MSCA Postdoctoral Fellowships, Principal Investigator, European Commission, 2024-2026
-* Digital Futures Postdoc Fellowships, Principal Investigator, Digital Futures, 2023-2025
+* MSCA Postdoctoral Fellowships, European Commission
+ * Principal Investigator
+ * 2024-2026
+* Digital Futures Postdoc Fellowships, Digital Futures
+ * Principal Investigator
+ * 2023-2025
 
  
 Mentoring
