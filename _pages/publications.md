@@ -10,6 +10,7 @@ redirect_from:
 
 ### Journal Papers
 
+- **C. Li** and M. Skoglund, "Decentralized Learning Based on Gradient Coding With Compressed Communication," *IEEE Transactions on Signal Processing*, vol. 72, pp. 4713-4729, 2024.
 - **C. Li** and M. Skoglund, "Distributed Learning based on 1-Bit Gradient Coding in the Presence of Stragglers," *IEEE Transactions on Communications*, vol. 72, no. 8, pp. 4903-4916, 2024.
 - **C. Li**, G. Li, Z. Wang, et al., "COMIC: An Unsupervised Change Detection Method for Heterogeneous Remote Sensing Images based on Copula Mixtures and Cycle-Consistent Adversarial Networks," *Information Fusion*, vol. 106, 2024.
 - Z. Wang, X. Wang, G. Li and **C. Li**, "Robust Cross-Modal Remote Sensing Image Retrieval via Maximal Correlation Augmentation," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-17, 2024.
