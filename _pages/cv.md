@@ -22,14 +22,19 @@ Work experience
 * Postdoctoral researcher, KTH Royal Institute of Technology, Nov 2023 - Now
   * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao 
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Beijing Municipal Outstanding Doctoral Dissertation, Dec 2023
+* Excellent Doctoral Dissertation, China Education Society of Electronics, Feb 2023
+* Excellent Graduate, Tsinghua University, Jun 2022
+* Excellent Doctoral Dissertation, Tsinghua University, Jun 2022
+* Electronic Engineering Star Award, Tsinghua University, Jun 2022
+* Excellent Paper Award, the 10th Chinese Information Fusion Conference, Oct 2021
+* Scholarship for Comprehensive Excellence, Tsinghua University, Oct 2021
+* National Scholarship, Oct 2020
+* Excellent Undergraduate Fellowship, China Scholarship Council, Feb 2018
+* Excellent Graduate, UESTC, Jun 2018
+* Academic Star of Electronic Engineering, UESTC, Oct 2016
 
 Publications
 ======
