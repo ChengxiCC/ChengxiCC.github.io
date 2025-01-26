@@ -14,8 +14,9 @@ Journal Reviewer
 * IEEE Transactions on Signal Processing
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Mobile Computing
-* Information Fusion
 * IEEE Transactions on Consumer Electronics
+* IEEE Transactions on Services Computing
+* Information Fusion 
 * Electronics
 * Sensors
 
