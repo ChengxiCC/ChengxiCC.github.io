@@ -16,6 +16,7 @@ Journal Reviewer
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Consumer Electronics
 * IEEE Transactions on Services Computing
+* Journal of Biomedical and Health Informatics 
 * Information Fusion 
 * Electronics
 * Sensors
