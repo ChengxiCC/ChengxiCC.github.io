@@ -20,7 +20,9 @@ Work experience
 * Research assistant, Tsinghua University, Jul 2022 - Oct 2023
   * Supervisor: Prof. Gang Li 
 * Postdoctoral researcher, KTH Royal Institute of Technology, Nov 2023 - Now
-  * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao 
+  * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao
+* Visiting postdoctoral researcher, École Polytechnique Fédérale de Lausanne, Feb 2025 - Now
+  * Supervisor: Prof. Rachid Guerraoui  
   
 Awards
 ======
