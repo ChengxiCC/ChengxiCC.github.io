@@ -21,7 +21,7 @@ Work experience
   * Supervisor: Prof. Gang Li 
 * Postdoctoral researcher, KTH Royal Institute of Technology, Nov 2023 - Now
   * Supervisor: Prof. Mikael Skoglund and Prof. Ming Xiao
-* Visiting postdoctoral researcher, École Polytechnique Fédérale de Lausanne, Feb 2025 - Now
+* Visiting postdoctoral researcher, École Polytechnique Fédérale de Lausanne, Feb 2025 - May 2025
   * Supervisor: Prof. Rachid Guerraoui  
   
 Awards
