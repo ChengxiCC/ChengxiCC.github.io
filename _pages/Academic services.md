@@ -13,6 +13,7 @@ Journal Reviewer
 * IEEE Transactions on Information Forensics & Security
 * IEEE Transactions on Signal Processing
 * IEEE Journal on Selected Areas in Communications
+* IEEE Transactions on Communications 
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Consumer Electronics
