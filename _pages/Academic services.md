@@ -14,6 +14,7 @@ Journal Reviewer
 * IEEE Transactions on Signal Processing
 * IEEE Journal on Selected Areas in Communications
 * IEEE Transactions on Mobile Computing
+* IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Consumer Electronics
 * IEEE Transactions on Services Computing
 * Journal of Biomedical and Health Informatics 
