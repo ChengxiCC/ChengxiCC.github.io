@@ -10,6 +10,8 @@ redirect_from:
 
 ### Journal Papers
 - **C. Li**, M. Xiao and M. Skoglund, "Sign-Based Distributed Learning With Byzantine Resilience Based on Audit Mechanism," *IEEE Transactions on Information Forensics and Security*, vol. 20, pp. 5774-5788, 2025.
+- **C. Li**, M. Xiao and M. Skoglund, "Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation," *IEEE Transactions on Communications*, doi: 10.1109/TCOMM.2025.3594773.
+- **C. Li**, M. Xiao and M. Skoglund, "Communication-Efficient Semi-Decentralized Federated Learning in the Presence of Stragglers," *IEEE Transactions on Communications*, doi: 10.1109/TCOMM.2025.3605479.
 - **C. Li** and M. Skoglund, "Decentralized Learning Based on Gradient Coding With Compressed Communication," *IEEE Transactions on Signal Processing*, vol. 72, pp. 4713-4729, 2024.
 - **C. Li** and M. Skoglund, "Distributed Learning based on 1-Bit Gradient Coding in the Presence of Stragglers," *IEEE Transactions on Communications*, vol. 72, no. 8, pp. 4903-4916, 2024.
 - **C. Li**, G. Li, Z. Wang, et al., "COMIC: An Unsupervised Change Detection Method for Heterogeneous Remote Sensing Images based on Copula Mixtures and Cycle-Consistent Adversarial Networks," *Information Fusion*, vol. 106, 2024.
