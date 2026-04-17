@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### Journal Papers
-- **C. Li**, M. Xiao and M. Skoglund, "Coded Robust Aggregation for Distributed Learning Under Byzantine Attacks," *IEEE Transactions on Signal Processing*, vol. 74, pp. 514-530, 2026.
+- **C. Li**, M. Xiao and M. Skoglund, "Biased Compression in Gradient Coding for Distributed Learning," *IEEE Transactions on Signal Processing*, vol. 74, pp. 514-530, 2026.
 - **C. Li**, M. Xiao and M. Skoglund, "Coded Robust Aggregation for Distributed Learning Under Byzantine Attacks," *IEEE Transactions on Information Forensics and Security*, vol. 20, pp. 11636-11651, 2025.
 - **C. Li**, M. Xiao and M. Skoglund, "Sign-Based Distributed Learning With Byzantine Resilience Based on Audit Mechanism," *IEEE Transactions on Information Forensics and Security*, vol. 20, pp. 5774-5788, 2025.
 - **C. Li**, M. Xiao and M. Skoglund, "Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation," *IEEE Transactions on Communications*, doi: 10.1109/TCOMM.2025.3594773.
