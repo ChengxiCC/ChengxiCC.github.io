@@ -38,10 +38,6 @@ chengxli@kth.se
 
 ### Visitors
 
-<script
-  type="text/javascript"
-  id="mapmyvisitors"
-  src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=aLnL991d1cBBdEDp1J2HJyKrJKXIi1lmS35GVdW2wsY&co=3691d1'>
-</script>
 
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=n&d=aLnL991d1cBBdEDp1J2HJyKrJKXIi1lmS35GVdW2wsY'></script>
 
